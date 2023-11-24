@@ -5,7 +5,6 @@ A python based web server including custom python route.
 ```
 git clone https://github.com/ktlun1/wshost.git
 
-cd wshost
 
-python3 main.py
+python3 index.py
 ```
